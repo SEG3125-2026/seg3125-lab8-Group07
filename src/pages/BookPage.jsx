@@ -14,8 +14,8 @@ const SERVICES = [
 const TRAINERS = [
   { id: 1, name: 'Michael Strand', img: 'https://images.unsplash.com/photo-1534367610401-9f5ed68180aa?w=600&q=80' },
   { id: 2, name: 'John Cheng',     img: 'https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?w=600&q=80', unavailable: true },
-  { id: 3, name: 'Emma Williams',  img: 'https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&q=80' },
-  { id: 4, name: 'David Martinez', img: 'https://images.unsplash.com/photo-1579722820308-d74e571900a9?w=600&q=80' },
+  { id: 3, name: 'Emma Williams',  img: 'https://images.unsplash.com/photo-1579722820308-d74e571900a9?w=600&q=80' },
+  { id: 4, name: 'David Martinez', img: 'https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&q=80' },
 ];
 
 const TIME_SLOTS = ['9 AM', '10 AM', '11 AM', '12 PM', '1 PM', '2 PM', '3 PM', '4 PM'];
